@@ -1,4 +1,4 @@
-# README for Monte Carlo Portfolio Simulation Using Real-Time Data
+# Monte Carlo Portfolio Simulation Using Real-Time Data
 This Python script implements a Monte Carlo simulation for portfolio performance analysis. It uses real-time financial data sourced from Yahoo Finance through the yfinance library to generate insights into portfolio returns and risk. The script simulates the potential future value of a portfolio using historical stock price data, statistical techniques, and random sampling.
 
 ## Features
